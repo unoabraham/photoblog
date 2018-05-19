@@ -2,7 +2,7 @@
 title: "In Potato Memoriam"
 date: 2018-05-19T07:33:42+05:30
 showDate: true
-draft: true
+draft: false
 categories: ["Food"]
 tags: ["Potato", "Potato Wedges", "French Fries"]
 ---
