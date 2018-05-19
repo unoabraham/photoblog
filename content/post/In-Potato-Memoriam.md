@@ -11,4 +11,10 @@ tags: ["Potato", "Potato Wedges", "French Fries"]
 
 ![](/images/IMG_20180424_133728.jpg)
 
+![](/images/IMG_20180428_182332.jpg)
+
+![](/images/IMG_20180501_124818.jpg)
+
+![](/images/IMG_20180501_183025.jpg)
+
 In memoriam of the potato that I have given up on as a regular diet.

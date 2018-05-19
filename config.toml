@@ -25,15 +25,15 @@ pygmentsCodefences      = true
 
 [[params.mainMenu]]
     link = "/post"
-    text = "photoblog"
+    text = "abraham's photoblog"
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "gallery"   
+    text = "gallery"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is abraham?"
+    text = "abraham who?"
 
 [[params.mainMenu]]
     link = "/categories"
