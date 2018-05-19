@@ -4,7 +4,7 @@ date: 2018-05-06T08:47:44+00:00
 showDate: true
 draft: false
 categories: ["Food"]
-tags: ["Potato Wedges"]
+tags: ["Potato Wedges", "Potato"]
 ---
 
 ![](/images/IMG_20180419_183232.jpg)
