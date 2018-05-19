@@ -1,7 +1,9 @@
 ---
-title: "Photography"
+title: "Abraham's Gallery"
 ---
 
-This responsive image gallery is rendered in random order from a folder of image files. You can choose to make the images clickable to show the full size image, or not. You can set this text in the `_index.md` file in the `/content/gallery/` folder.
+Welcome to Abraham’s Gallery.
 
-By the way, [Vicky](https://vickylai.io) took these photos in Tokyo. You can find some of them on [Instagram](https://www.instagram.com/heronebag/).
+A random gallery will be generated and displayed on each visit. You can click on the individual images for the full resolution.
+
+I will infrequently update the gallery folder so it will show a smattering of photographs from a recent outing or occasion. Please do note that the photoblog will have the latest updates, blog posts, and photographs. The gallery is only intended as a preview of the website.

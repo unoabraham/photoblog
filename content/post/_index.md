@@ -4,7 +4,6 @@ date: 2018-02-13T12:21:57-05:00
 
 ---
 
-Welcome to the photoblog section of Abraham's Photoblog!
+Welcome to the photoblog section of Abraham's Photoblog.
 
-
-This page uses the default `list.html` template. Write anything you like here. You can set this text with your `_index.md` in the `/content/posts/` folder.
+Below you will find all the latest photographs, posts, and updates.
