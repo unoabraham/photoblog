@@ -4,7 +4,7 @@ date: 2018-03-16T09:06:05+00:00
 showDate: true
 draft: false
 categories: ["People"]
-tags: ["Rajiv Abraham","Rajiv Abraham Nela"]
+tags: ["Rajiv Abraham", "Rajiv Abraham Nela"]
 ---
 
 That's me.
