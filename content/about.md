@@ -13,7 +13,7 @@ And then I discovered smartphone photography with the Sony Ericsson K750i. It wa
 
 ![Rajiv Abraham Nela](/images/SEK750i.jpg "Rajiv Abraham Nela")
 
-This is one of my earliest selfies shot with the Sony Ericsson K750i, notwithstanding the paltry 2 megapixels it boasted back in the day. The camera was the best part about the phone, you had to actually hold it like a camera to take photographs. The first of its kind (at least me thinks), when today we consider it natural to take photographs in landscape mode with our smartphones.
+This is one of my earliest selfies shot with the Sony Ericsson K750i. A decent shot notwithstanding the paltry 2 megapixels it boasted back in the day. The camera was the best part about the phone, you had to actually hold it like a camera to take photographs. The first of its kind (at least me thinks), when today we consider it natural to take photographs in landscape mode with our smartphones.
 
 Unfortunately, I have lost quite a bit of the photographs I shot with this excellent camera smartphone, thanks to not knowing about backing up, having several hard drive crashes, and moving house. Thankfully the selfie survived and ended up being used as an avatar on many social media channels.
 
