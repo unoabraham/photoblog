@@ -1,0 +1,12 @@
+---
+title: "GVK One Panorama"
+date: 2018-05-10T08:20:33+00:00
+showDate: true
+draft: false
+categories: ["Places"]
+tags: ["GVK One", "Panorama"]
+---
+
+![GVK One Panorama](/images/IMG_20180509_144006-PANO.jpg)
+
+Me trying out a wide-angle panoramic shot inside GVK One.
