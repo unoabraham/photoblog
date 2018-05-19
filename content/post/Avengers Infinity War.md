@@ -3,7 +3,7 @@ title: "Avengers: Infinity War"
 date: 2018-05-08T06:20:48+00:00
 showDate: true
 draft: false
-categories: ["People", "Places", "Food"]
+categories: ["People"]
 tags: ["Avengers: Infinity War", "Rajiv Abraham", "Grace Abraham", "Padma Nela"]
 ---
 
