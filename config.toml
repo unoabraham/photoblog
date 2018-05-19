@@ -42,3 +42,7 @@ pygmentsCodefences      = true
 [[params.mainMenu]]
     link = "/tags"
     text = "tags"
+
+[[params.mainMenu]]
+    link = "/index.xml"
+    text = "rss"
