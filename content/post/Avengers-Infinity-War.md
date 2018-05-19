@@ -4,7 +4,7 @@ date: 2018-05-08T06:20:48+00:00
 showDate: true
 draft: false
 categories: ["People"]
-tags: ["Avengers: Infinity War", "Rajiv Abraham", "Grace Abraham", "Padma Nela"]
+tags: ["Avengers: Infinity War", "Rajiv Abraham Nela", "Grace Abraham", "Padma Nela"]
 ---
 
 Stepped out with the ladies of the house yesterday, had a fun day with the Avengers: Infinity War, lots of eating, and then some shopping.
