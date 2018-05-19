@@ -24,16 +24,16 @@ pygmentsCodefences      = true
     primaryImage        = "/images/Abraham.jpg"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
+    link = "/about"
+    text = "abraham who?"
+
+[[params.mainMenu]]
     link = "/post"
-    text = "abraham's photoblog"
+    text = "photoblog"
 
 [[params.mainMenu]]
     link = "/gallery"
     text = "gallery"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "abraham who?"
 
 [[params.mainMenu]]
     link = "/categories"
