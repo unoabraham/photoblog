@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://unruffled-khorana-e02dd8.netlify.com/* http://abraham.gallery/:splat 301!
