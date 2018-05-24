@@ -26,6 +26,9 @@ defaultContentLanguage = "en"           # Default language to use
 [author]                  # essential                     # 必需
   name = "Rajiv Abraham"
 
+[permalinks]
+  post = "/:title/"
+
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
   priority = 0.5
