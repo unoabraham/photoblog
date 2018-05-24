@@ -27,7 +27,7 @@ defaultContentLanguage = "en"           # Default language to use
   name = "Rajiv Abraham"
 
 [permalinks]
-  post = "/:title/"
+  post = "/:yearday/:title/"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
