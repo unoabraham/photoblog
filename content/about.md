@@ -3,7 +3,7 @@ title: "About"
 date: 2018-05-01T13:42:49-05:00
 ---
 
-Hi, I'm Rajiv Abraham Nela, a smartphone shutterbug from India.
+Hi, I'm Rajiv Abraham, a smartphone shutterbug.
 
 Welcome to my photoblog.
 
@@ -11,7 +11,7 @@ I grew up with a professional photographer at home (in my dad), but personally I
 
 And then I discovered smartphone photography with the Sony Ericsson K750i. It was my first bona fide camera, and more importantly something I could shoot good photographs with.
 
-![Rajiv Abraham Nela](/images/SEK750i.jpg "Rajiv Abraham Nela")
+![Rajiv Abraham](/images/SEK750i.jpg "Rajiv Abraham")
 
 This is one of my earliest selfies shot with the Sony Ericsson K750i. A decent shot notwithstanding the paltry 2 megapixels it boasted back in the day. The camera was the best part about the phone, you had to actually hold it like a camera to take photographs. The first of its kind (at least me thinks), when today we consider it natural to take photographs in landscape mode with our smartphones.
 
