@@ -1,4 +1,4 @@
-baseURL = "https://abraham.one/"
+baseURL = "https://abraham.gallery/"
 title = "Abraham's Photoblog"
 enableRobotsTXT = true
 enableEmoji = true
@@ -7,10 +7,10 @@ theme = "hugo-theme-jane"
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 5                                              # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
-# uglyURLs = true         # more info: https://gohugo.io/content-management/urls/#ugly-urls
+#disqusShortname = ""      # disqus_shortname
+googleAnalytics = "UA-112438396-11"      # UA-XXXXXXXX-X
+copyright = "Rajiv Abraham Nela"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+# uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
 # Highlight options. See https://gohugo.io/content-management/syntax-highlighting/
 PygmentsCodeFences = true # Enable syntax highlighting with GitHub flavoured code fences
@@ -143,7 +143,7 @@ defaultContentLanguage = "en"           # Default language to use
     #j-douban = "http://localhost:1313"
     #k-pocket = "http://localhost:1313"
     l-tumblr = "https://unoabraham.tumblr.com/"
-    m-instagram = "https://www.instagram.com/unoabraham/"
+    #m-instagram = "https://www.instagram.com/unoabraham/"
     #n-gitlab = "http://en.xianmin.org/hugo-theme-jane/"
     #o-goodreads = "http://en.xianmin.org/hugo-theme-jane/"
 
