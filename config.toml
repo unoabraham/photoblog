@@ -1,4 +1,4 @@
-baseURL = "https://abraham.gallery/"
+baseURL = "https://abraham.one/"
 title = "Abraham's Photoblog"
 enableRobotsTXT = true
 enableEmoji = true
@@ -8,9 +8,9 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 5                                              # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 #disqusShortname = ""      # disqus_shortname
-googleAnalytics = "UA-112438396-11"      # UA-XXXXXXXX-X
+googleAnalytics = "UA-112438396-5"      # UA-XXXXXXXX-X
 copyright = "Rajiv Abraham Nela"            # default: author.name ↓        # 默认为下面配置的author.name ↓
-# uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
+uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
 # Highlight options. See https://gohugo.io/content-management/syntax-highlighting/
 PygmentsCodeFences = true # Enable syntax highlighting with GitHub flavoured code fences
@@ -68,7 +68,7 @@ defaultContentLanguage = "en"           # Default language to use
 
 [params]
   debug = false             # If true, load `eruda.min.js`. See https://github.com/liriliri/eruda
-  # uglyURLs = true          # You must set true after use uglyURLs in site (above). because $.Site.UglyURLs can not import.
+  uglyURLs = false          # You must set true after use uglyURLs in site (above). because $.Site.UglyURLs can not import.
   since = "2018"            # Site creation time          # 站点建立时间
   homeFullContent = true   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
