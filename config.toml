@@ -1,5 +1,5 @@
-baseURL = "https://abraham.gallery/"
-title = "Abraham's Gallery"
+baseURL = "https://abraham.one/"
+title = "Abraham's Photoblog"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-jane"
