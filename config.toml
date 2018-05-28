@@ -1,5 +1,5 @@
-baseURL = "https://abraham.one/"
-title = "Abraham's Photoblog"
+baseURL = "https://abraham.life/"
+title = "Abraham's Life In Pictures"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "hugo-theme-jane"
@@ -8,7 +8,7 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 5                                              # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
 #disqusShortname = ""      # disqus_shortname
-googleAnalytics = "UA-112438396-5"      # UA-XXXXXXXX-X
+googleAnalytics = "UA-112438396-1"      # UA-XXXXXXXX-X
 copyright = "Rajiv Abraham Nela"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 uglyURLs = false         # more info: https://gohugo.io/content-management/urls/#ugly-urls
 
@@ -24,7 +24,7 @@ defaultContentLanguage = "en"           # Default language to use
   languageCode = "en"
 
 [author]                  # essential                     # 必需
-  name = "Rajiv Abraham"
+  name = "Rajiv Abraham Nela"
 
 [permalinks]
   post = "/:yearday/:title/"
