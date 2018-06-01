@@ -1,0 +1,27 @@
+---
+title: "Continuing Pepper Adventures"
+date: 2018-06-01T15:02:23+05:30
+lastmod: 2018-06-01T15:02:23+05:30
+draft: false
+keywords: []
+description: ""
+tags: ["Pepper Chicken", "Chicken"]
+categories: ["Food"]
+author: "Rajiv Abraham"
+
+# You can also close(false) or open(true) something for this content.
+# P.S. comment can only be closed
+comment: false
+toc: false
+autoCollapseToc: false
+# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
+contentCopyright: false
+reward: false
+mathjax: false
+---
+
+![Pepper Chicken](/images/IMG_20180601_133352.jpg "Pepper Chicken")
+
+![Pepper Chicken](/images/IMG_20180601_133500.jpg "Pepper Chicken")
+
+Continuing the pepper chicken adventure.
