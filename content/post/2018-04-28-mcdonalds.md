@@ -13,6 +13,6 @@ categories:
 format: aside
 
 ---
-![McDonald's Meal](/images/IMG_20180504_143249.jpg "McDonald's Meal")
+![McDonald's Meal](https://res.cloudinary.com/abraham/image/upload/v1528461402/IMG_20180504_143249.jpg "McDonald's Meal")
 
 Yay, the McDonald's fest continues.

@@ -13,6 +13,6 @@ categories:
 format: image
 
 ---
-![McDonald's Meal](/images/IMG_20180428_131159.jpg "McDonald's Meal")
+![McDonald's Meal](https://res.cloudinary.com/abraham/image/upload/v1528461372/IMG_20180428_131159.jpg "McDonald's Meal")
 
 Wanted to binge some more on McDonald's.

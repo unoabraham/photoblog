@@ -20,10 +20,10 @@ reward: false
 mathjax: false
 ---
 
-![Meatball Curry](/images/IMG_20180606_142602.jpg "Meatball Curry")
+![Meatball Curry](https://res.cloudinary.com/abraham/image/upload/v1528457999/IMG_20180606_142602.jpg "Meatball Curry")
 
-![Meatball Curry](/images/IMG_20180606_142657.jpg "Meatball Curry")
+![Meatball Curry](https://res.cloudinary.com/abraham/image/upload/v1528457999/IMG_20180606_142657.jpg "Meatball Curry")
 
-![Meatball Curry](/images/IMG_20180606_143056.jpg "Meatball Curry")
+![Meatball Curry](https://res.cloudinary.com/abraham/image/upload/v1528458018/IMG_20180606_143056.jpg "Meatball Curry")
 
 Meatball Curry a.k.a Mutton Kofta, Indian version with potatoes.

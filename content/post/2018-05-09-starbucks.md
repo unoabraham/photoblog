@@ -7,10 +7,10 @@ categories: ["Food"]
 tags: ["Cherry Chocolate Cake", "Tiramisu", "Starbucks"]
 ---
 
-![Cherry Chocolate Cake](/images/IMG_20180509_152321.jpg)
+![Cherry Chocolate Cake](https://res.cloudinary.com/abraham/image/upload/v1528457975/IMG_20180509_152321.jpg "Cherry Chocolate Cake")
 
 Cherry Chocolate Cake
 
-![Tiramisu](/images/IMG_20180507_125126.jpg)
+![Tiramisu](https://res.cloudinary.com/abraham/image/upload/v1528461404/IMG_20180507_125126.jpg "Tiramisu")
 
 Tiramisu
